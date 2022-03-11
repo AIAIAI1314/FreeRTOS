@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=VCC3.3M Pin=C?-1
+Removed Pin From Net: NetName=VDDA Pin=C?-2
+Removed Pin From Net: NetName=NetBAT?_1 Pin=D?-1
+Removed Pin From Net: NetName=VDDA Pin=R?-1
+Removed Pin From Net: NetName=VCC3.3M Pin=R?-2
+Removed Pin From Net: NetName=NetC?_2 Pin=Y?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=RESET Pin=C?-1
+Added Pin To Net: NetName=VCC3.3M Pin=C?-1
+Added Pin To Net: NetName=VCC3.3M Pin=C?-1
+Added Pin To Net: NetName=VCC3.3M Pin=C?-1
+Added Pin To Net: NetName=VCC3.3M Pin=C?-1
+Added Pin To Net: NetName=VCC3.3M Pin=C?-1
+Added Pin To Net: NetName=VCC3.3M Pin=C?-1
+Added Pin To Net: NetName=VCC3.3M Pin=C?-1
+Added Pin To Net: NetName=VCC3.3M Pin=C?-1
+Added Pin To Net: NetName=VCC3.3M Pin=C?-1
+Added Pin To Net: NetName=VCC3.3M Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=VCC3.3M Pin=C?-2
+Added Pin To Net: NetName=VDDA Pin=C?-2
+Added Pin To Net: NetName=VDDA Pin=C?-2
+Added Pin To Net: NetName=NetBAT?_1 Pin=D?-1
+Added Pin To Net: NetName=VCC3.3M Pin=D?-1
+Added Pin To Net: NetName=VCC3.3 Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VCC Pin=R?-1
+Added Pin To Net: NetName=VDDA Pin=R?-1
+Added Pin To Net: NetName=RESET Pin=R?-2
+Added Pin To Net: NetName=VCC3.3 Pin=R?-2
+Added Pin To Net: NetName=VCC3.3M Pin=R?-2
+Added Pin To Net: NetName=VCC3.3M Pin=R?-2
+Added Pin To Net: NetName=NetC?_2 Pin=Y?-1
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component C? 10uF
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component C? 10
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component C? 10
+Added Member To Class: ClassName=5100 Member=Component C? 10
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component C? 10
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component C? 104
+Added Member To Class: ClassName=5100 Member=Component D? 1N4148
+Added Member To Class: ClassName=5100 Member=Component R? 0R
+Added Member To Class: ClassName=5100 Member=Component R? 10R
+Added Member To Class: ClassName=5100 Member=Component R? 1M
+Added Member To Class: ClassName=5100 Member=Component R? 10K
+Added Member To Class: ClassName=5100 Member=Component Y? 8MHz

@@ -1,0 +1,5 @@
+Change Pin Designator/Name:  Old Designator=C?-2 Old Name= New Designator = New Name=2
+Change Pin Designator/Name:  Old Designator=U?-8 Old Name=PC14-OSC32_IN New Designator =PC15-OSC32_OUT New Name=9
+Change Pin Designator/Name:  Old Designator=U?-9 Old Name=PC15-OSC32_OUT New Designator =PC14-OSC32_IN New Name=8
+Change Pin Designator/Name:  Old Designator=Y?-1 Old Name=OSC1 New Designator =OSC2 New Name=2
+Change Pin Designator/Name:  Old Designator=Y?-2 Old Name=OSC2 New Designator =OSC1 New Name=1
